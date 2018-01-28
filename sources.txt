@@ -1,0 +1,22 @@
+sprite = https://www.flickr.com/photos/sudario/15129243627/
+Creative Commons Attribution-Noncommercial License(https://creativecommons.org/licenses/by-nc/2.0/)
+User: Ricardo Sudario
+No changes were made to the original
+Type: URL
+Date accessed: 13th March 2015, 11:05AM
+
+
+background = http://urceola.deviantart.com/art/Raining-on-the-Grass-291079093
+Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/)
+User: Urceola
+No changes were made to the original
+Type: URL
+Date accessed: 13th March 2015, 13:41PM
+
+
+ground = http://chubbs-99.deviantart.com/art/Net-Hack-Sprite-sheet-v1-1-152244286
+Creative Commons Attribution-Noncommercial License (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+User: Chubbs-99
+No changes were made to the original
+Type: URL
+Date accessed: 13th March 2015, 14:02PM
